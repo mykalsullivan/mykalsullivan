@@ -13,7 +13,7 @@ I'm mainly focused on earning my degrees at ASUB and earning as many certificati
 * HTML/CSS/JavaScript
 
 ### Current Projects:
-* CursesGUI (CLI UI library)
+* CursesGUI (CLI UI library - https://github.com/mykalsullivan/CursesGUI)
 * todo (CLI to-do list utility)
 
 ### I'm Currently Studying:
