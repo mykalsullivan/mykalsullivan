@@ -23,5 +23,5 @@ I'm mainly focused on earning my degrees at ASUB and earning as many certificati
 * Blender
 * Server administration
 
-#### Contact Info
+### Contact Info
 If you want to reach out to me, just email me at mykalsullivan@outlook.com!
