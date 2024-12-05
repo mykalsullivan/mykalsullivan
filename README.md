@@ -4,7 +4,7 @@ I'm a current student at Arkansas State University - Beebe enrolled in fall 2022
 I'm mainly focused on earning my degrees at ASUB and earning as many certifications possible... all while honing in on my programming skills in the meantime!
 
 ### Programming Languages I Use
-* C/C++
+* C++ (C to a lesser degree)
 * Java
 * Python
 * SQL
