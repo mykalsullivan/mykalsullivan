@@ -4,7 +4,7 @@ I'm a current student at Arkansas State University - Beebe enrolled in fall 2022
 I'm mainly focused on earning my degrees at ASUB and earning as many certifications possible... all while honing in on my programming skills in the meantime!
 
 ### Programming Languages I Use
-* C++ (C to a lesser degree)
+* C/C++
 * Java
 * Python
 * SQL
@@ -12,9 +12,10 @@ I'm mainly focused on earning my degrees at ASUB and earning as many certificati
 * Rust
 * HTML/CSS/JavaScript
 
-### Current Projects:
+### Current Projects (slow pace due to school and work):
+* moduserve (modular server library - https://github.com/mykalsullivan/moduserve)
 * CursesGUI (CLI UI library - https://github.com/mykalsullivan/CursesGUI)
 * todo (CLI to-do list utility)
 
 ### Contact Info
-If you want to reach out to me, just shoot an email at mykalsullivan@outlook.com.
+If you want to reach out to me, just shoot me an email at mykalsullivan@duck.com!
